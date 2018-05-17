@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.admin_login{
+	background-color: #BBB !important;
+}
+
+.login{
+	background-color: #B2B2B2;
+	color:#1E1E1E;
+	border-color:#B2B2B2;
+}
+
+#admin-head{
+	background-color:#111;
+}
+#admin-head h1{
+	font-size: 20px;
+	color:#EEE;
+	padding: 20px;
+}
